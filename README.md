@@ -1,0 +1,2 @@
+# Cassino
+Gambling machine project
