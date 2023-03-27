@@ -1,5 +1,5 @@
 # https://www.youtube.com/watch?v=th4OBktqK1I
-# 45:00
+# DONE
 
 import random
 
